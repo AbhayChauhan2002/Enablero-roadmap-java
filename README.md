@@ -118,12 +118,12 @@ Step by step guide to becoming a modern Java developer
  - [✅ ]  07 - Injecting Objects
  - [ ✅]  08 - Inner Beans, Aliases and idref
  - [ ✅]  09 - Initializing Collections
- - [ ]  10 - Bean Autowiring
- - [ ]  11 - Understanding Bean Scopes
- - [ ]  12 - Using ApplicationContextAware
- - [ ]  13 - Bean Definition Inheritance
- - [ ]  14 - Lifecycle Callbacks
- - [ ]  15 - Writing a BeanPostProcessor
+ - [ ✅]  10 - Bean Autowiring
+ - [ ✅]  11 - Understanding Bean Scopes
+ - [✅ ]  12 - Using ApplicationContextAware
+ - [ ✅]  13 - Bean Definition Inheritance
+ - [✅ ]  14 - Lifecycle Callbacks
+ - ✅[ ]  15 - Writing a BeanPostProcessor
  - [ ]  16 - Writing a BeanFactoryPostProcessor
  - [ ]  17 - Coding To Interfaces
  - [ ]  18 - Introduction to Annotations and the Required Annotation
