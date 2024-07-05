@@ -124,15 +124,15 @@ Step by step guide to becoming a modern Java developer
  - [ ✅]  13 - Bean Definition Inheritance
  - [✅ ]  14 - Lifecycle Callbacks
  - ✅[ ]  15 - Writing a BeanPostProcessor
- - [ ]  16 - Writing a BeanFactoryPostProcessor
- - [ ]  17 - Coding To Interfaces
- - [ ]  18 - Introduction to Annotations and the Required Annotation
- - [ ]  19 - The Autowired Annotation
- - [ ]  20 - Some JSR-250 Annotations
- - [ ]  21 - Component and Stereotype Annotations
- - [ ]  22 - Using MessageSource To Get Text From Property Files
- - [ ]  23 - Event Handling in Spring
- - [ ]  24 - Introduction to AOP
+ - [✅ ]  16 - Writing a BeanFactoryPostProcessor
+ - [ ✅]  17 - Coding To Interfaces
+ - [✅]  18 - Introduction to Annotations and the Required Annotation
+ - [ ✅]  19 - The Autowired Annotation
+ - [✅ ]  20 - Some JSR-250 Annotations
+ - [✅ ]  21 - Component and Stereotype Annotations
+ - [✅ ]  22 - Using MessageSource To Get Text From Property Files
+ - [✅ ]  23 - Event Handling in Spring
+ - [ ✅]  24 - Introduction to AOP
 
 ### [Spring Data Support](https://www.youtube.com/watch?v=eR_JFtqyNL4&list=PL1A506B159E5BD13E)
 
