@@ -143,9 +143,9 @@ Step by step guide to becoming a modern Java developer
  - [✅ ] 05 - Returning Other Datatypes from JdbcTemplate
  - [✅ ] 06 - Implementing RowMapper
  - [✅ ] 07 - Performing Write Operations with JdbcTemplate
- - [ ] 08 - Named Parameter JDBC Template
- - [ ] 09 - DAO Support Classes
- - [ ] 10 - Using Hibernate with Spring
+ - [✅ ] 08 - Named Parameter JDBC Template
+ - [ ✅] 09 - DAO Support Classes
+ - [✅ ] 10 - Using Hibernate with Spring
 
 ## Intermediate Stage 1
    
