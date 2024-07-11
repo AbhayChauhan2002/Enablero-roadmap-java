@@ -151,6 +151,7 @@ Step by step guide to becoming a modern Java developer
    
 ### [Spring Boot Quick Start](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
 
+ - [✅ ] 10 - Using Hibernate with Spring
  - [ ] 01 - Introduction
  - [ ] 02 - About The Course
  - [ ] 03 - What is Spring Boot
