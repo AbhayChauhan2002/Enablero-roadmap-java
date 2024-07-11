@@ -152,16 +152,16 @@ Step by step guide to becoming a modern Java developer
 ### [Spring Boot Quick Start](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
 
  - [✅ ] 10 - Using Hibernate with Spring
- - [ ] 01 - Introduction
- - [ ] 02 - About The Course
- - [ ] 03 - What is Spring Boot
- - [ ] 04 - Spring and some of its problems
- - [ ] 05 - What Spring Boot gives us
- - [ ] 06 - Setting Up Development Environment
- - [ ] 07 - Maven
- - [ ] 08 - Creating a Spring Boot project
- - [ ] 09 - Starting a Spring Boot application
- - [ ] 10 - Spring Boot startup steps
+ - [✅ ] 01 - Introduction
+ - [✅ ] 02 - About The Course
+ - [✅ ] 03 - What is Spring Boot
+ - [✅ ] 04 - Spring and some of its problems
+ - [✅ ] 05 - What Spring Boot gives us
+ - [✅ ] 06 - Setting Up Development Environment
+ - [✅ ] 07 - Maven
+ - [✅ ] 08 - Creating a Spring Boot project
+ - [✅ ] 09 - Starting a Spring Boot application
+ - [✅ ] 10 - Spring Boot startup steps
  - [ ] 11 - Adding a REST Controller
  - [ ] 12 - Returning Objects From Controller
  - [ ] 13 - What's Happening Here: Bill Of Materials
