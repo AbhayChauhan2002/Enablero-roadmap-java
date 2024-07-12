@@ -151,24 +151,24 @@ Step by step guide to becoming a modern Java developer
    
 ### [Spring Boot Quick Start](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
 
- - [✅ ] 10 - Using Hibernate with Spring
- - [✅ ] 01 - Introduction
- - [✅ ] 02 - About The Course
- - [✅ ] 03 - What is Spring Boot
+ - [ ✅] 10 - Using Hibernate with Spring
+ - [✅] 01 - Introduction
+ - [✅] 02 - About The Course
+ - [✅] 03 - What is Spring Boot
  - [✅ ] 04 - Spring and some of its problems
- - [✅ ] 05 - What Spring Boot gives us
- - [✅ ] 06 - Setting Up Development Environment
- - [✅ ] 07 - Maven
- - [✅ ] 08 - Creating a Spring Boot project
- - [✅ ] 09 - Starting a Spring Boot application
- - [✅ ] 10 - Spring Boot startup steps
- - [✅ ] 11 - Adding a REST Controller
- - [✅ ] 12 - Returning Objects From Controller
+ - ✅[ ] 05 - What Spring Boot gives us
+ - [✅] 06 - Setting Up Development Environment
+ - [ ✅] 07 - Maven
+ - [✅] 08 - Creating a Spring Boot project
+ - [✅] 09 - Starting a Spring Boot application
+ - [✅] 10 - Spring Boot startup steps
+ - [ ✅] 11 - Adding a REST Controller
+ - ✅[] 12 - Returning Objects From Controller
  - [✅ ] 13 - What's Happening Here: Bill Of Materials
- - [✅ ] 14 - What's Happening Here: Embedded Servlet Container
+ - ✅[] 14 - What's Happening Here: Embedded Servlet Container
  - [ ✅] 15 - How Spring MVC Works
  - [✅ ] 16 - The REST API we'll build
- - [✅ ] 17 - Creating a business service
+ - [ ✅] 17 - Creating a business service
  - [✅ ] 18 - Getting a single resource
  - [✅ ] 19 - Creating a new resource using POST
  - [✅ ] 20 - Implementing Update and Delete
@@ -176,7 +176,7 @@ Step by step guide to becoming a modern Java developer
  - [✅ ] 22 - Using Spring Initializr
  - [✅ ] 23 - Using Spring Boot CLI
  - [✅ ] 24 - Using the STS IDE
- - [✅ ] 25 - Using application properties
+ - [✅] 25 - Using application properties
  - [ ] 26 - What is JPA
  - [ ] 27 - Adding Spring Data JPA
  - [ ] 28 - Creating a Spring Data JPA Repository
