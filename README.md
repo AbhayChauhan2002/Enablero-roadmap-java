@@ -162,21 +162,21 @@ Step by step guide to becoming a modern Java developer
  - [✅ ] 08 - Creating a Spring Boot project
  - [✅ ] 09 - Starting a Spring Boot application
  - [✅ ] 10 - Spring Boot startup steps
- - [ ] 11 - Adding a REST Controller
- - [ ] 12 - Returning Objects From Controller
- - [ ] 13 - What's Happening Here: Bill Of Materials
- - [ ] 14 - What's Happening Here: Embedded Servlet Container
- - [ ] 15 - How Spring MVC Works
- - [ ] 16 - The REST API we'll build
- - [ ] 17 - Creating a business service
- - [ ] 18 - Getting a single resource
- - [ ] 19 - Creating a new resource using POST
- - [ ] 20 - Implementing Update and Delete
- - [ ] 21 - Unit Overview
- - [ ] 22 - Using Spring Initializr
- - [ ] 23 - Using Spring Boot CLI
- - [ ] 24 - Using the STS IDE
- - [ ] 25 - Using application properties
+ - [✅ ] 11 - Adding a REST Controller
+ - [✅ ] 12 - Returning Objects From Controller
+ - [✅ ] 13 - What's Happening Here: Bill Of Materials
+ - [✅ ] 14 - What's Happening Here: Embedded Servlet Container
+ - [ ✅] 15 - How Spring MVC Works
+ - [✅ ] 16 - The REST API we'll build
+ - [✅ ] 17 - Creating a business service
+ - [✅ ] 18 - Getting a single resource
+ - [✅ ] 19 - Creating a new resource using POST
+ - [✅ ] 20 - Implementing Update and Delete
+ - [✅ ] 21 - Unit Overview
+ - [✅ ] 22 - Using Spring Initializr
+ - [✅ ] 23 - Using Spring Boot CLI
+ - [✅ ] 24 - Using the STS IDE
+ - [✅ ] 25 - Using application properties
  - [ ] 26 - What is JPA
  - [ ] 27 - Adding Spring Data JPA
  - [ ] 28 - Creating a Spring Data JPA Repository
