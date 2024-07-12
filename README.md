@@ -177,10 +177,10 @@ Step by step guide to becoming a modern Java developer
  - [✅ ] 23 - Using Spring Boot CLI
  - [✅ ] 24 - Using the STS IDE
  - [✅] 25 - Using application properties
- - [ ] 26 - What is JPA
- - [ ] 27 - Adding Spring Data JPA
- - [ ] 28 - Creating a Spring Data JPA Repository
- - [ ] 29 - Making Crud Operations with Repository
+ - [✅ ] 26 - What is JPA
+ - [✅ ] 27 - Adding Spring Data JPA
+ - [✅ ] 28 - Creating a Spring Data JPA Repository
+ - [✅ ] 29 - Making Crud Operations with Repository
  - [ ] 30 - Adding Course APIs
  - [ ] 31 - Adding Entity Relationship and Extending Repository
  - [ ] 32 - Packaging and running a Spring Boot app
